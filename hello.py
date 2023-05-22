@@ -1,2 +1,3 @@
-a = int(input("Insira um número: "))
-print("Opa, vc digitou um {}".format(a))
+a = float(input("Insira um número: "))
+b = float(input("Insira outro número: "))
+print("Opa, vc digitou um {} e um {}".format(a, b))
